@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\bin\Debug\net5.0\WorkWithFile.exe
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\bin\Debug\net5.0\WorkWithFile.deps.json
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\bin\Debug\net5.0\WorkWithFile.runtimeconfig.json
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\bin\Debug\net5.0\WorkWithFile.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\bin\Debug\net5.0\WorkWithFile.dll
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\bin\Debug\net5.0\WorkWithFile.pdb
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\obj\Debug\net5.0\WorkWithFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\obj\Debug\net5.0\WorkWithFile.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\obj\Debug\net5.0\WorkWithFile.AssemblyInfo.cs
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\obj\Debug\net5.0\WorkWithFile.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\obj\Debug\net5.0\WorkWithFile.dll
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\obj\Debug\net5.0\refint\WorkWithFile.dll
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\obj\Debug\net5.0\WorkWithFile.pdb
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\obj\Debug\net5.0\WorkWithFile.genruntimeconfig.cache
+C:\Users\user\OneDrive\Dot.NetCOre\WorkWithFile\obj\Debug\net5.0\ref\WorkWithFile.dll
